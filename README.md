@@ -34,7 +34,6 @@ The model was fine-tuned on labeled news articles and evaluated on unseen test d
 - Python
 - PyTorch
 - Hugging Face Transformers
-- Hugging Face Datasets
 - Pandas
 - NumPy
 
