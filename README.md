@@ -32,7 +32,6 @@ The model was fine-tuned on labeled news articles and evaluated on unseen test d
 # Tech Stack
 
 - Python
-- PyTorch
 - Hugging Face Transformers
 - Hugging Face Datasets
 - Pandas
